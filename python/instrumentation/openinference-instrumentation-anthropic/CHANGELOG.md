@@ -1,5 +1,21 @@
 # Changelog
 
+## [0.1.4](https://github.com/gregwchase/openinference/compare/python-openinference-instrumentation-anthropic-v0.1.3...python-openinference-instrumentation-anthropic-v0.1.4) (2024-09-11)
+
+
+### Features
+
+* add README and release please for anthropic instrumentor ([#925](https://github.com/gregwchase/openinference/issues/925)) ([e8b8973](https://github.com/gregwchase/openinference/commit/e8b897357d31b2d611c80f4e2d3c5246e87fab1d))
+* Anthropic instrumentation ([#878](https://github.com/gregwchase/openinference/issues/878)) ([895eeee](https://github.com/gregwchase/openinference/commit/895eeee6c2e7519acf5f0d6e25598d29c4f56925))
+* Tool calling for Anthropic instrumentor ([#939](https://github.com/gregwchase/openinference/issues/939)) ([2566486](https://github.com/gregwchase/openinference/commit/25664860f6226dcc4a4ef9b19e67fdc79135889b))
+
+
+### Bug Fixes
+
+* **anthropic:** dynamically import anthropic ([#998](https://github.com/gregwchase/openinference/issues/998)) ([b627f79](https://github.com/gregwchase/openinference/commit/b627f796afd2d1499c3bcccfbc17567aa7298df8))
+* Fix input message attribute issues + toolcalling from dogfooding ([#948](https://github.com/gregwchase/openinference/issues/948)) ([dde31f5](https://github.com/gregwchase/openinference/commit/dde31f51755e5883561d0e9dc195cff13f38f56e))
+* increase version lower bound for openinference-instrumentation ([#1012](https://github.com/gregwchase/openinference/issues/1012)) ([3236d27](https://github.com/gregwchase/openinference/commit/3236d2733a46b84d693ddb7092209800cde8cc34))
+
 ## [0.1.3](https://github.com/Arize-ai/openinference/compare/python-openinference-instrumentation-anthropic-v0.1.2...python-openinference-instrumentation-anthropic-v0.1.3) (2024-09-04)
 
 
